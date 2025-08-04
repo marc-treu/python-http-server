@@ -35,7 +35,7 @@ No external dependencies are required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/codecreafter-http-server.git
+git clone https://github.com/marc-treu/codecreafter-http-server.git
 cd codecreafter-http-server
 ```
 
