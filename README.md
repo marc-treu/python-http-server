@@ -1,6 +1,6 @@
 # Codecreafter Python HTTP Server
 
-A lightweight HTTP server implementation in Python using sockets and threading. This project demonstrates handling basic HTTP requests and responses from scratch, without relying on frameworks like Flask or Django.
+A lightweight HTTP server implementation in Python using sockets and threading. This project demonstrates handling basic HTTP requests and responses from scratch.
 
 ## Features
 
